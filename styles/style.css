@@ -1,0 +1,50 @@
+body {
+  background-image: url("https://i.pinimg.com/originals/96/e4/c1/96e4c1ac9f84d835bb402cd71c91ce32.jpg");
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 120px;
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  margin: 0;
+}
+p,h1 {
+    margin: 4px 0;
+}
+h1 {
+    font-weight: 900;
+}
+nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: fit-content;
+    background-color: #121d35;
+    padding: 12px 20px;
+    color: white;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    justify-content: center;
+    color: white;
+    position: absolute;
+    /* Position */
+    top: 240px;
+    left: calc(200px + 320px + 120px) ; 
+    
+}
+
+#defaultCanvas0 {
+  overflow: hidden;
+  border-radius: 24px;
+  margin-top: 30px;
+  position: absolute;
+  /* Position */
+  top: 0;
+  left: 200px;
+}
