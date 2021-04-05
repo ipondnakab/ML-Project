@@ -10,9 +10,9 @@ KITTIPAT DAENGDEE
 
 ## ภาพประกอบ Project
 - ไม่ใส่หมวกกันน็อค
-<img src="./pic1.png" alt="ไม่ใส่หมวกกันน็อค" title="ไม่ใส่หมวกกันน็อค"/>
+<img src="./pic1.png" alt="ไม่ใส่หมวกกันน็อค" title="ไม่ใส่หมวกกันน็อค" style="width: 50%;"/>
 
 - ใส่หมวกกันน็อค
-<img src="./pic2.png" alt="ใส่หมวกกันน็อค" title="ใส่หมวกกันน็อค"/>
+<img src="./pic2.png" alt="ใส่หมวกกันน็อค" title="ใส่หมวกกันน็อค" style="width: 50%;"/>
 
 
